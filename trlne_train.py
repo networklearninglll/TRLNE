@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-#/usr/bin/python2
 
 from __future__ import print_function
 import tensorflow as tf
