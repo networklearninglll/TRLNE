@@ -9,7 +9,7 @@ In our experiments, to verify our hypothesis, we quantify the noise of the path 
 For classfication task on wiki dataset, we keep 22,350 path and abandon 1141 path, then we compare the mean degree of the selected paths and unselected paths.
 
 The mean degree of the unselected paths is 4% higher than the selected paths.
-| Name | Description          |
-| ------------- | ----------- |
-| Help      | Display the help window.|
-| Close     | Closes a window     |
+is selected path |  path num | average degree
+---|---
+selected | 22350 | 150
+unselected | 1141 | 156
