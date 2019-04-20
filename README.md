@@ -10,7 +10,3 @@ For classfication task on wiki dataset, we keep 22,350 path and abandon 1141 pat
 
 The mean degree of the unselected paths is 4% higher than the selected paths.
 
-|is selected path |  path num | average degree
----|---|---|
-|selected | 22350 | 15
-|unselected | 1141 | 15.6
