@@ -12,5 +12,5 @@ The mean degree of the unselected paths is 4% higher than the selected paths.
 
 |is selected path |  path num | average degree
 ---|---|---|
-|selected | 22350 | 150
-|unselected | 1141 | 156
+|selected | 22350 | 15
+|unselected | 1141 | 15.6
